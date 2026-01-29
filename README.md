@@ -1,2 +1,4 @@
 # django-apprunner-example
-w
+
+ローカル起動
+python manage.py runserver
